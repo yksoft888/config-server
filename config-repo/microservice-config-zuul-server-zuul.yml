@@ -2,4 +2,4 @@ zuul:
   routes:
     userRoute:
       path: /user/**
-      url: http://war.163.com/
+      url: http://www.baidu.com/
