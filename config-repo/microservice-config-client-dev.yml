@@ -1,4 +1,4 @@
 config:
   server:
     username: yksoft
-    password: yksoft888
+    password: '{cipher}2e8db85fa52e8a8033a59531da4b63052c921899b4d6e044492e83cbaffce0d7'
